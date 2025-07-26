@@ -1,0 +1,5 @@
+fastapi
+unicorn
+sqlalchemy
+pydantic
+python-dotenv
